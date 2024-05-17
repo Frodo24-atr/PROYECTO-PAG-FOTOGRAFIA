@@ -20,7 +20,7 @@
     align-items: center;
     position: fixed;
     z-index: 1000;
-    background-color: rgba(0, 0, 0, 0.896);
+    background-color: rgba(39, 37, 37, 0.952);
 }
 
 .navbar{
@@ -58,8 +58,8 @@
 }
 
 .navbar-img-a a:hover{
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    background-color: rgb(247, 241, 241);
+    color: rgb(0, 0, 0);
     border-radius: 30px;
 }
 
@@ -637,9 +637,7 @@ section.About{
     color: rgb(225, 237, 216);
 }
 
-.comillas{
-    color: white
-}
+
 .palabra1:hover {
     color: #deff49; /* Coral */
 }
